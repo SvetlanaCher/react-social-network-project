@@ -1,0 +1,22 @@
+h3 {
+    margin: 0;
+    margin-top: 50px;
+    text-align: center;
+    color: rgb(24, 22, 156);
+    font-weight: 500;
+}
+
+.friendsBlock {
+    display: flex;
+    flex-direction: row;
+    align-items: flex-end;
+}
+
+.friendsBlock img {
+    width: 35px;
+    border-radius: 30px;
+}
+
+.friend {
+    padding: 5px;
+}

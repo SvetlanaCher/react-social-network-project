@@ -1,0 +1,12 @@
+.userPhoto {
+    width: 100px
+}
+
+.selectedPage {
+    font-weight: 700;
+    color: blue;
+}
+
+.page {
+    cursor: pointer;
+}
